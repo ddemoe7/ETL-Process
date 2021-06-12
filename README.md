@@ -1,6 +1,13 @@
 # ETL-Project
 Extract, Transform and Load Databases
 
+<i>Group members:<i>
+* Anthony Carannante
+* Jeremy Bar
+* Dominique DeMoe
+* Anjanette Velazco
+* DeAngelo Williams
+
 ## Background
 This repository is meant to highlight all facets of the ETL (Extract - Transform - Load) process.
 
