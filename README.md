@@ -1,5 +1,7 @@
-# ETL-Project
+# ETL Process
 Extract, Transform and Load Databases
+<br>
+<i>(ETL-Project)</i>
 
 <i>Group members:<i>
 * Anthony Carannante
