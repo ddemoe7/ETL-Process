@@ -20,13 +20,16 @@ To do this, the following process was followed:
 
 The main data chosen for this project comes from https://philly.thedrinknation.com/specials
 This site provides the user with happy hour special data on a number of different restaurants in the Philadelphia region.
+  
+  ![Screen Shot 2021-11-28 at 5 55 07 PM](https://user-images.githubusercontent.com/22499952/143789657-ef55c0f2-590c-4837-ab79-88fe02808d71.png)
+
 
 ### 1.
 <b>Extract</b>
 This data needed to be scraped from the happy hour special site
 
 An additional source was used to get match regional areas to neighborhoods.
-* A CSV was created from the information on this site https://www.philageohistory.org/rdic-images/common/help/PhilaRegions.
+* A CSV was created from the information on this site: https://www.philageohistory.org/geohistory/ and navigating to the section on Philadelphia regions.
 
 ### 2.
 <b>Transform</b>
